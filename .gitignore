@@ -1,0 +1,41 @@
+# Archivos compilados
+*.class
+
+# Directorios de build
+/build/
+/dist/
+/out/
+
+# Archivos generados de NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Archivos de configuración local
+/src/conf/persistence.xml
+*.properties
+
+# Archivos temporales
+*.swp
+*~
+
+# Directorios de dependencias
+/lib/
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos WAR
+*.war
+*.ear
+
+# Directorios de Apache TomEE
+/apache-tomee/
+/webapps/
+/work/
+/temp/
