@@ -1,4 +1,4 @@
-# Nombre del Proyecto
+# Registro Académico
 
 ## Requisitos previos
 - Java JDK 8 o superior
