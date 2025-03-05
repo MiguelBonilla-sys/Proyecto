@@ -1,4 +1,4 @@
-# Registro Académico
+# Registro Académico Java
 
 ## Requisitos previos
 - Java JDK 8 o superior
